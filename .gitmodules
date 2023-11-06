@@ -1,0 +1,3 @@
+[submodule "COGNet"]
+	path = COGNet
+	url = https://github.com/BarryRun/COGNet.git
